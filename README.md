@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on my final year dissertation (FYD) 
 - 🌱 I’m currently learning database tuning and datacleaning on SQL Server
-- 💬 Ask me about in aharon1377@gmail.com
+- 💬 Ask me about in rbg.aaron@gmail.com
 - 📫 How to reach me: You can visit my personal [website](https://AaronRBG.github.io/ "Aarón Rodríguez-Barbero González")
 
 My name is Aarón Rodríguez-Barbero González, I am 21 years old and I live in Daimiel (Ciudad Real). I am a student of the University of Castilla-La Mancha of the Escuela Superior de Informática de Ciudad Real in the intensification of Software Engineering.
