@@ -31,13 +31,13 @@ As for my skills, I consider myself a hard worker, responsible, with a great att
 <img align="left" alt="Bootstrap" width="26px" src="icons/bootstrap-plain-wordmark.svg"/>
 
 <br></br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaronRBG&langs_count=10&layout=compact&theme=dracula)](https://github.com/AaronRBG/github-readme-stats)
-
+<br></br>
+<br></br>
 
 ### 📊 Github stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaronRBG&show_icons=true&theme=dracula)
-
+<br></br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaronRBG&langs_count=10&layout=compact&theme=dracula)](https://github.com/AaronRBG/github-readme-stats)
 
 ### Atributions
 - GitHub stats: [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
