@@ -3,15 +3,12 @@
 ![GitHub followers](https://img.shields.io/github/followers/AaronRBG?label=Follow&style=social) 
 ![](https://visitor-badge.glitch.me/badge?page_id=AaronRBG.AaronRBG)
 
-
-- 🔭 I’m currently working on my final year dissertation (FYD) 
-- 🌱 I’m currently learning database tuning and datacleaning on SQL Server
 - 💬 Ask me about in rbg.aaron@gmail.com
 - 📫 How to reach me: You can visit my personal [website](https://AaronRBG.github.io/ "Aarón Rodríguez-Barbero González")
 
-My name is Aarón Rodríguez-Barbero González, I am 21 years old and I live in Daimiel (Ciudad Real). I am a student of the University of Castilla-La Mancha of the Escuela Superior de Informática de Ciudad Real in the intensification of Software Engineering.
+I'm 22 years old, I recently graduated from University of Castilla-La Mancha as Software Engineer and I'm actively looking for a job in this field.
 
-I am currently in my last year of my university career. As for my skills, I consider myself a hard worker, responsible, with a great attitude and eager to learn and increase my knowledge. 
+As for my skills, I consider myself a hard worker, responsible, with a great attitude and eager to learn and increase my knowledge. 
 
 ### 🚀 Some tools and languages I use
 
