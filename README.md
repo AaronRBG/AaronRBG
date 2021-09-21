@@ -31,8 +31,6 @@ As for my skills, I consider myself a hard worker, responsible, with a great att
 <img align="left" alt="Bootstrap" width="26px" src="icons/bootstrap-plain-wordmark.svg"/>
 
 <br></br>
-<br></br>
-<br></br>
 
 ### 📊 Github stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaronRBG&show_icons=true&theme=dracula)
