@@ -8,7 +8,7 @@
 
 I'm 22 years old, I recently graduated from University of Castilla-La Mancha as Software Engineer and I'm actively looking for a job in this field.
 
-As for my skills, I consider myself a hard worker, responsible, with a great attitude and eager to learn and increase my knowledge. 
+As for my skills, I consider myself a hard worker, quick learner, team player, with a great attitude and eager to start my professional career and keep learning. 
 
 ### 🚀 Some tools and languages I use
 
